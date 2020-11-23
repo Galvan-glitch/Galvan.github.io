@@ -34,6 +34,11 @@ body {
   height: 32rem;
 }
 
+.dropshadow {
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
+
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
